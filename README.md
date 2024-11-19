@@ -1,2 +1,3 @@
 # RMH-Acumatica
-Integartion of RMH with Acumatica ERP
+Integration of RMH with Acumatica ERP
+Documentation and testing
